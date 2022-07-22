@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.bodyPoke{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: rgba(0, 0, 0, .3) url(./img/arLivre.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+  align-items: center;
+  justify-content: center;
+}
+.bodyMoney{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: rgba(0, 0, 0, .3) url(./img/economiaBack.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+  align-items: center;
+  justify-content: center;
+}

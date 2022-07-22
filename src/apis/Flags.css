@@ -1,0 +1,40 @@
+.Real{
+  background: url(../img/brasilFlag.webp);
+  background-size: 52px 50px;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.Dolar{
+  background: url(../img/euaFlag.png);
+  background-size: 52px 50px;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.Libra{
+  background: url(../img/reinoFlag.png);
+  background-size: 52px 50px;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.Euro{
+  background: url(../img/portugalFlag.png);
+  background-size: 52px 50px;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.Bitcoin{
+  background: url(../img/bitcoin.png);
+  background-size: 52px 50px;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}

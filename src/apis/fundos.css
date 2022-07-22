@@ -1,0 +1,75 @@
+.electric{
+  background-image: url(../img/raio.webp);
+  background-repeat: no-repeat;
+  background-size: 310px 510px;
+}
+.fire {
+  background: rgba(0, 0, 0, .2) url(../img/fire.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+}
+.water{
+  background-image: url(../img/wather.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rock, .steel{
+  background-image: url(../img/rock.jpg);
+  background-repeat: no-repeat;
+  background-size: 400px 400px;
+}
+.grass{
+  background-image: url(../img/grass.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bug{
+  background-image: url(../img/bug.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.normal{
+  background-color: #ccc;
+}
+.poison{
+  background-image: url(../img/poison.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ground{
+  background-image: url(../img/ground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fairy{
+  background-image: url(../img/fairy.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fighting{
+  background-image: url(../img/fight.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px 450px;
+}
+.psychic{
+  background-image: url(../img/psy.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ghost{
+  background-image: url(../img/ghost.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ice{
+  background-image: url(../img/ice.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dragon{
+  background-color: rgb(199, 171, 55);
+}
+.dark{
+  background-color: black;
+}
